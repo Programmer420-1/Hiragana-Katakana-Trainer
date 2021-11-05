@@ -5,7 +5,6 @@ import random
 import winsound
 import threading
 import json
-import ctypes
 from PyQt5.uic.uiparser import QtCore
 import pyautogui
 from datetime import date
